@@ -1,1 +1,76 @@
-<mxfile host="app.diagrams.net" modified="2023-01-10T01:55:46.850Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.3" etag="3ezdH-fd34sAA4c5Iqcy" type="github"><diagram id="YsGcEVtvj0-C235TWKPu">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-10T18:17:46.840Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.3" etag="XfiWWz7vBGExvLPZmE60" type="github">
+  <diagram id="2RAFOEM6CEjJ-g44hhky" name="Página-1">
+    <mxGraphModel dx="1360" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NuzvGC6-Rdll0s1NzpG8-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NuzvGC6-Rdll0s1NzpG8-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NuzvGC6-Rdll0s1NzpG8-6" value="APRENDI QUE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NuzvGC6-Rdll0s1NzpG8-8" value="&lt;div style=&quot;text-align: start;&quot;&gt;UM SISTEMA OPERACIONAL É UM SOFTWARE BÁSICO QUE GERENCIA AS OPERAÇÕES DE UM COMPUTADOR&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="260" y="20" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="NuzvGC6-Rdll0s1NzpG8-10" value="&lt;font color=&quot;#000000&quot;&gt;UM DRIVER É UM PROGRAMA DE SOFTWARE QUE PERMITE QUE O SISTEMA OPERACIONAL DE UM COMPUTADOR SE COMUNIQUE COM UM DISPOSITIVO EXTERNO&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontColor=#e1e3e5;" vertex="1" parent="1">
+          <mxGeometry x="264" y="205" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="NuzvGC6-Rdll0s1NzpG8-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#e1e3e5;" edge="1" parent="1" source="NuzvGC6-Rdll0s1NzpG8-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NuzvGC6-Rdll0s1NzpG8-11" value="APRENDI QUE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NuzvGC6-Rdll0s1NzpG8-15" value="UMA THREAD ELA PODE SER USADA PARA REALIZAR VÁRIAS TAREFAS AO MESMO TEMPO, EM PARALELO, EM UM ÚNICO PROCESSO" style="whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="460" y="60" width="250" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="NuzvGC6-Rdll0s1NzpG8-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="NuzvGC6-Rdll0s1NzpG8-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="577.5" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NuzvGC6-Rdll0s1NzpG8-18" value="ENTENDI QUE O DOCKER ELE CRIA UM AMBIENTE ISOLADO PARA CADA APLICATIVO, CHAMADO DE CONTÊINER, QUE INCLUI TUDO O QUE O APLICATIVO PRECISA PARA FUNCIONAR, BIBLIOTECAS E CONFIGURAÇÕES" style="whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="470" y="350" width="215" height="215" as="geometry" />
+        </mxCell>
+        <mxCell id="NuzvGC6-Rdll0s1NzpG8-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="NuzvGC6-Rdll0s1NzpG8-21" target="NuzvGC6-Rdll0s1NzpG8-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="577.5" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NuzvGC6-Rdll0s1NzpG8-21" value="ENTENDI SE DER SUBIR DOIS CONTÊINER DIFERENTE COMO (WORD E EXCEL) PODE CAUSAR INTERVENÇÃO" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="506.25" y="640" width="142.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="NuzvGC6-Rdll0s1NzpG8-23" value="O FILHO RETORNA AO PAI E O PAI RETORNA O SHIN" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="517.5" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NuzvGC6-Rdll0s1NzpG8-24" value="PELO QUE EU ENTENDI KUBERNETES É UM SISTEMA DE GERENCIAMENTO DE CONTÊINERES DE LARGA ESCALA QUE FOI PROJETADO PARA AJUDAR A IMPLANTAR, ESCALAR E GERENCIAR APLICATIVOS EM CONTÊINERES EM AMBIENTES DISTRIBUÍDOS." style="whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="110" y="375" width="210" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="NuzvGC6-Rdll0s1NzpG8-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="NuzvGC6-Rdll0s1NzpG8-27" target="NuzvGC6-Rdll0s1NzpG8-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="215" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NuzvGC6-Rdll0s1NzpG8-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="NuzvGC6-Rdll0s1NzpG8-27" target="NuzvGC6-Rdll0s1NzpG8-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NuzvGC6-Rdll0s1NzpG8-27" value="ENTENDI QUE UM GITLAB É UM HOST GIT OPEN SOURCE CAPAZ DE ORGANIZAR REPOSITÓRIOS EM GRUPOS, ALÉM DE POSSUIR ESTRUTURAS CI/CD." style="whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="100" y="620" width="230" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="NuzvGC6-Rdll0s1NzpG8-29" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; text-align: left; font-family: &amp;quot;Times New Roman&amp;quot;;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: Helvetica; letter-spacing: 0pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;OS CI/CD SÃO CONTINUOUS INTEGRATION/CONTINUOUS DELIVERY: UMA TÉCNICA PARA INTEGRAR, ENTREGAR E IMPLANTAR APLICAÇÕES DE FORMA CONTÍNUA.&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 10.5pt; font-size: 10.5pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="40" y="930" width="200" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="NuzvGC6-Rdll0s1NzpG8-33" value="&lt;span style=&quot;font-family: Calibri; text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;UMA PIPELINE SÃO GRUPO DE INSTRUÇÕES QUE SÃO EXECUTADAS EM ESTÁGIOS, GERALMENTE RELACIONADOS AOS PROCESSOS DE CI/CD.&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; font-family: Calibri; font-size: medium; text-align: start;&quot; class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="310" y="930" width="170" height="140" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
