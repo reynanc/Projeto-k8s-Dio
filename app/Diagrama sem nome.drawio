@@ -1,74 +1,269 @@
-<mxfile host="app.diagrams.net" modified="2023-01-10T18:17:46.840Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.3" etag="XfiWWz7vBGExvLPZmE60" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-11T20:32:05.025Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="9RE0zohQdmcievtrdpFZ" version="20.8.3" type="github">
   <diagram id="2RAFOEM6CEjJ-g44hhky" name="Página-1">
     <mxGraphModel dx="1360" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="NuzvGC6-Rdll0s1NzpG8-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NuzvGC6-Rdll0s1NzpG8-6">
+        <mxCell id="ou2WC9nBaCsvbl3odo8g-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ou2WC9nBaCsvbl3odo8g-1" target="ou2WC9nBaCsvbl3odo8g-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="240" y="70" as="targetPoint" />
+            <mxPoint x="220" y="50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NuzvGC6-Rdll0s1NzpG8-6" value="APRENDI QUE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="40" width="120" height="60" as="geometry" />
+        <mxCell id="ou2WC9nBaCsvbl3odo8g-1" value="CAMINHO DOS CONTAINERS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="20" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NuzvGC6-Rdll0s1NzpG8-8" value="&lt;div style=&quot;text-align: start;&quot;&gt;UM SISTEMA OPERACIONAL É UM SOFTWARE BÁSICO QUE GERENCIA AS OPERAÇÕES DE UM COMPUTADOR&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="260" y="20" width="150" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="NuzvGC6-Rdll0s1NzpG8-10" value="&lt;font color=&quot;#000000&quot;&gt;UM DRIVER É UM PROGRAMA DE SOFTWARE QUE PERMITE QUE O SISTEMA OPERACIONAL DE UM COMPUTADOR SE COMUNIQUE COM UM DISPOSITIVO EXTERNO&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontColor=#e1e3e5;" vertex="1" parent="1">
-          <mxGeometry x="264" y="205" width="150" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="NuzvGC6-Rdll0s1NzpG8-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#e1e3e5;" edge="1" parent="1" source="NuzvGC6-Rdll0s1NzpG8-11">
+        <mxCell id="ou2WC9nBaCsvbl3odo8g-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ou2WC9nBaCsvbl3odo8g-3" target="ou2WC9nBaCsvbl3odo8g-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="240" y="280" as="targetPoint" />
+            <mxPoint x="380" y="50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NuzvGC6-Rdll0s1NzpG8-11" value="APRENDI QUE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="250" width="120" height="60" as="geometry" />
+        <mxCell id="ou2WC9nBaCsvbl3odo8g-3" value="CHROOT 1979" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="10" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="NuzvGC6-Rdll0s1NzpG8-15" value="UMA THREAD ELA PODE SER USADA PARA REALIZAR VÁRIAS TAREFAS AO MESMO TEMPO, EM PARALELO, EM UM ÚNICO PROCESSO" style="whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="460" y="60" width="250" height="250" as="geometry" />
+        <mxCell id="ou2WC9nBaCsvbl3odo8g-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ou2WC9nBaCsvbl3odo8g-5" target="ou2WC9nBaCsvbl3odo8g-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NuzvGC6-Rdll0s1NzpG8-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="NuzvGC6-Rdll0s1NzpG8-18">
+        <mxCell id="ou2WC9nBaCsvbl3odo8g-5" value="JAILS 2000" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="10" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ou2WC9nBaCsvbl3odo8g-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ou2WC9nBaCsvbl3odo8g-7" target="ou2WC9nBaCsvbl3odo8g-11">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="577.5" y="640" as="targetPoint" />
+            <mxPoint x="650" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NuzvGC6-Rdll0s1NzpG8-18" value="ENTENDI QUE O DOCKER ELE CRIA UM AMBIENTE ISOLADO PARA CADA APLICATIVO, CHAMADO DE CONTÊINER, QUE INCLUI TUDO O QUE O APLICATIVO PRECISA PARA FUNCIONAR, BIBLIOTECAS E CONFIGURAÇÕES" style="whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="470" y="350" width="215" height="215" as="geometry" />
+        <mxCell id="ou2WC9nBaCsvbl3odo8g-7" value="&lt;div&gt;LINUX VSERVER 2001&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NuzvGC6-Rdll0s1NzpG8-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="NuzvGC6-Rdll0s1NzpG8-21" target="NuzvGC6-Rdll0s1NzpG8-23">
+        <mxCell id="ou2WC9nBaCsvbl3odo8g-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ou2WC9nBaCsvbl3odo8g-11" target="ou2WC9nBaCsvbl3odo8g-13">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="577.5" y="810" as="targetPoint" />
+            <mxPoint x="720" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NuzvGC6-Rdll0s1NzpG8-21" value="ENTENDI SE DER SUBIR DOIS CONTÊINER DIFERENTE COMO (WORD E EXCEL) PODE CAUSAR INTERVENÇÃO" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="506.25" y="640" width="142.5" height="120" as="geometry" />
+        <mxCell id="ou2WC9nBaCsvbl3odo8g-11" value="&lt;div&gt;SOLARIS 2004&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NuzvGC6-Rdll0s1NzpG8-23" value="O FILHO RETORNA AO PAI E O PAI RETORNA O SHIN" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="517.5" y="810" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="NuzvGC6-Rdll0s1NzpG8-24" value="PELO QUE EU ENTENDI KUBERNETES É UM SISTEMA DE GERENCIAMENTO DE CONTÊINERES DE LARGA ESCALA QUE FOI PROJETADO PARA AJUDAR A IMPLANTAR, ESCALAR E GERENCIAR APLICATIVOS EM CONTÊINERES EM AMBIENTES DISTRIBUÍDOS." style="whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="110" y="375" width="210" height="210" as="geometry" />
-        </mxCell>
-        <mxCell id="NuzvGC6-Rdll0s1NzpG8-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="NuzvGC6-Rdll0s1NzpG8-27" target="NuzvGC6-Rdll0s1NzpG8-29">
+        <mxCell id="ou2WC9nBaCsvbl3odo8g-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ou2WC9nBaCsvbl3odo8g-13" target="ou2WC9nBaCsvbl3odo8g-15">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="215" y="920" as="targetPoint" />
+            <mxPoint x="630" y="235" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NuzvGC6-Rdll0s1NzpG8-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="NuzvGC6-Rdll0s1NzpG8-27" target="NuzvGC6-Rdll0s1NzpG8-33">
+        <mxCell id="ou2WC9nBaCsvbl3odo8g-13" value="&lt;div&gt;PROCESS CONTAINERS 2006&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="200" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ou2WC9nBaCsvbl3odo8g-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ou2WC9nBaCsvbl3odo8g-15" target="ou2WC9nBaCsvbl3odo8g-17">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="330" y="950" as="targetPoint" />
+            <mxPoint x="410" y="242.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NuzvGC6-Rdll0s1NzpG8-27" value="ENTENDI QUE UM GITLAB É UM HOST GIT OPEN SOURCE CAPAZ DE ORGANIZAR REPOSITÓRIOS EM GRUPOS, ALÉM DE POSSUIR ESTRUTURAS CI/CD." style="whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="100" y="620" width="230" height="230" as="geometry" />
+        <mxCell id="ou2WC9nBaCsvbl3odo8g-15" value="LXC 2008" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="205" width="140" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="NuzvGC6-Rdll0s1NzpG8-29" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; text-align: left; font-family: &amp;quot;Times New Roman&amp;quot;;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: Helvetica; letter-spacing: 0pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;OS CI/CD SÃO CONTINUOUS INTEGRATION/CONTINUOUS DELIVERY: UMA TÉCNICA PARA INTEGRAR, ENTREGAR E IMPLANTAR APLICAÇÕES DE FORMA CONTÍNUA.&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 10.5pt; font-size: 10.5pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="40" y="930" width="200" height="190" as="geometry" />
+        <mxCell id="ou2WC9nBaCsvbl3odo8g-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ou2WC9nBaCsvbl3odo8g-17" target="ou2WC9nBaCsvbl3odo8g-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="250" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="NuzvGC6-Rdll0s1NzpG8-33" value="&lt;span style=&quot;font-family: Calibri; text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;UMA PIPELINE SÃO GRUPO DE INSTRUÇÕES QUE SÃO EXECUTADAS EM ESTÁGIOS, GERALMENTE RELACIONADOS AOS PROCESSOS DE CI/CD.&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; font-family: Calibri; font-size: medium; text-align: start;&quot; class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="310" y="930" width="170" height="140" as="geometry" />
+        <mxCell id="ou2WC9nBaCsvbl3odo8g-17" value="DOCKER 2013" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="330" y="202.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ou2WC9nBaCsvbl3odo8g-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ou2WC9nBaCsvbl3odo8g-19" target="ou2WC9nBaCsvbl3odo8g-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ou2WC9nBaCsvbl3odo8g-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ou2WC9nBaCsvbl3odo8g-19" target="ou2WC9nBaCsvbl3odo8g-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ou2WC9nBaCsvbl3odo8g-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ou2WC9nBaCsvbl3odo8g-19" target="ou2WC9nBaCsvbl3odo8g-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ou2WC9nBaCsvbl3odo8g-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ou2WC9nBaCsvbl3odo8g-19" target="ou2WC9nBaCsvbl3odo8g-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ou2WC9nBaCsvbl3odo8g-19" value="COMPONENTES" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="212.5" width="200" height="87.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ou2WC9nBaCsvbl3odo8g-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ou2WC9nBaCsvbl3odo8g-21" target="ou2WC9nBaCsvbl3odo8g-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ou2WC9nBaCsvbl3odo8g-21" value="DOCKER REGISTRY" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="340" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ou2WC9nBaCsvbl3odo8g-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ou2WC9nBaCsvbl3odo8g-23" target="ou2WC9nBaCsvbl3odo8g-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ou2WC9nBaCsvbl3odo8g-23" value="DOCKER HOST" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="340" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ou2WC9nBaCsvbl3odo8g-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ou2WC9nBaCsvbl3odo8g-26" target="ou2WC9nBaCsvbl3odo8g-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ou2WC9nBaCsvbl3odo8g-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ou2WC9nBaCsvbl3odo8g-26" target="ou2WC9nBaCsvbl3odo8g-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ou2WC9nBaCsvbl3odo8g-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ou2WC9nBaCsvbl3odo8g-26" target="ou2WC9nBaCsvbl3odo8g-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ou2WC9nBaCsvbl3odo8g-26" value="DOCKER CLIENT" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="340" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ou2WC9nBaCsvbl3odo8g-27" value="IMAGENS NO DOCKER HUB" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ou2WC9nBaCsvbl3odo8g-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ou2WC9nBaCsvbl3odo8g-30" target="ou2WC9nBaCsvbl3odo8g-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ou2WC9nBaCsvbl3odo8g-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ou2WC9nBaCsvbl3odo8g-30" target="ou2WC9nBaCsvbl3odo8g-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ou2WC9nBaCsvbl3odo8g-30" value="DOCKER DAEMON" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ou2WC9nBaCsvbl3odo8g-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ou2WC9nBaCsvbl3odo8g-32" target="ou2WC9nBaCsvbl3odo8g-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ou2WC9nBaCsvbl3odo8g-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ou2WC9nBaCsvbl3odo8g-32" target="ou2WC9nBaCsvbl3odo8g-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ou2WC9nBaCsvbl3odo8g-32" value="CONTAINERS" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="545" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ou2WC9nBaCsvbl3odo8g-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="ou2WC9nBaCsvbl3odo8g-35" target="ou2WC9nBaCsvbl3odo8g-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ou2WC9nBaCsvbl3odo8g-35" value="IMAGENS" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="220" y="545" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ou2WC9nBaCsvbl3odo8g-36" value="Docker build" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="480" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ou2WC9nBaCsvbl3odo8g-38" value="Docker pull" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="340" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ou2WC9nBaCsvbl3odo8g-42" value="Docker run" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="460" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ou2WC9nBaCsvbl3odo8g-44" value="UM SOFTWARE EMPACOTADO" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="660" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ou2WC9nBaCsvbl3odo8g-47" value="UM PROCESSO ISOLADO" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="670" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ou2WC9nBaCsvbl3odo8g-50" value="BASE DO CONTAINER" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ou2WC9nBaCsvbl3odo8g-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ou2WC9nBaCsvbl3odo8g-52" target="ou2WC9nBaCsvbl3odo8g-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="885" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ou2WC9nBaCsvbl3odo8g-52" value="COMANDOS EXERCITADOS" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="20" y="820" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ou2WC9nBaCsvbl3odo8g-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ou2WC9nBaCsvbl3odo8g-54" target="ou2WC9nBaCsvbl3odo8g-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ou2WC9nBaCsvbl3odo8g-54" value="ENTRAR EM UMA MÁQUINA" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="845" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ou2WC9nBaCsvbl3odo8g-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ou2WC9nBaCsvbl3odo8g-57" target="ou2WC9nBaCsvbl3odo8g-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="505" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ou2WC9nBaCsvbl3odo8g-57" value="SSH SYADMIN@IPDAMAQUINA" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="380" y="845" width="250" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="ou2WC9nBaCsvbl3odo8g-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ou2WC9nBaCsvbl3odo8g-60" target="ou2WC9nBaCsvbl3odo8g-62">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ou2WC9nBaCsvbl3odo8g-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ou2WC9nBaCsvbl3odo8g-60" target="ou2WC9nBaCsvbl3odo8g-64">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ou2WC9nBaCsvbl3odo8g-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ou2WC9nBaCsvbl3odo8g-60" target="ou2WC9nBaCsvbl3odo8g-66">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="505" y="1100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ou2WC9nBaCsvbl3odo8g-60" value="Docker ps" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="445" y="990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ou2WC9nBaCsvbl3odo8g-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ou2WC9nBaCsvbl3odo8g-62" target="ou2WC9nBaCsvbl3odo8g-68">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="1110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ou2WC9nBaCsvbl3odo8g-62" value="Docker ps -a" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ou2WC9nBaCsvbl3odo8g-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ou2WC9nBaCsvbl3odo8g-64" target="ou2WC9nBaCsvbl3odo8g-70">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="1110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ou2WC9nBaCsvbl3odo8g-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ou2WC9nBaCsvbl3odo8g-64" target="ou2WC9nBaCsvbl3odo8g-77">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ou2WC9nBaCsvbl3odo8g-64" value="Docker images" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ou2WC9nBaCsvbl3odo8g-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ou2WC9nBaCsvbl3odo8g-66" target="ou2WC9nBaCsvbl3odo8g-73">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="1230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ou2WC9nBaCsvbl3odo8g-66" value="Docker run -d + images" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="1120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ou2WC9nBaCsvbl3odo8g-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ou2WC9nBaCsvbl3odo8g-68" target="ou2WC9nBaCsvbl3odo8g-75">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="1210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ou2WC9nBaCsvbl3odo8g-68" value="Docker rm -fv + oID" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ou2WC9nBaCsvbl3odo8g-70" value="docker commit + oID + nomedaimage:commited" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1109" width="140" height="111" as="geometry" />
+        </mxCell>
+        <mxCell id="ou2WC9nBaCsvbl3odo8g-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ou2WC9nBaCsvbl3odo8g-73" target="ou2WC9nBaCsvbl3odo8g-79">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="1360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ou2WC9nBaCsvbl3odo8g-73" value="docker run -d -p 80:80 + nomedaimag" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="1220" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ou2WC9nBaCsvbl3odo8g-75" value="docker logs + oID&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="1190" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ou2WC9nBaCsvbl3odo8g-77" value="docker inspect + oID&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="980" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ou2WC9nBaCsvbl3odo8g-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ou2WC9nBaCsvbl3odo8g-79" target="ou2WC9nBaCsvbl3odo8g-81">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="1410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ou2WC9nBaCsvbl3odo8g-79" value="docker exec -it + oID /bin/bash" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="1350" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ou2WC9nBaCsvbl3odo8g-81" value="cd /usr/share/images/html" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="1370" width="150" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
